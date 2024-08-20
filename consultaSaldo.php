@@ -42,9 +42,9 @@
                     </div>
                     <div class="col-auto">
                         <label for="tipo">Saldo Total</label>
-                        <input type="radio" name="tipo" id="tipo" value="saldo">
+                        <input type="radio" name="tipo" id="tipo" value="saldo"><br>
                         <label for="tipo">Total Saídas</label>
-                        <input type="radio" name="tipo" id="tipo" value="saida">
+                        <input type="radio" name="tipo" id="tipo" value="saida"><br>
                         <label for="tipo">Total Entradas</label>
                         <input type="radio" name="tipo" id="tipo" value="entrada">
                     </div>
